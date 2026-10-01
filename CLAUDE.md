@@ -107,3 +107,8 @@ The application runs as a Model Context Protocol (MCP) server using stdio transp
 - `src/SeqMcpServer/Services/EnvironmentCredentialStore.cs`: Credential management
 - `docs/PRD.md`: Product requirements and design decisions
 - `docker-compose.yml`: Local development setup with Seq
+
+## Attribution trailers
+
+Never add `Co-authored-by` or similar attribution trailers to commit messages, PR bodies, or issue/PR
+comments unless the user explicitly requests it. Commit messages are plain descriptive sentences.
